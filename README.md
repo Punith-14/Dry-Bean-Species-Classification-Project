@@ -29,7 +29,7 @@ The EDA was performed to understand the class distribution and to see how well t
 
 ### Class Distribution  
 
-![bean_class_distribution](images\01_bean_class_distribution.png)
+![bean_class_distribution](images/01_bean_class_distribution.png)
 
 - **Analysis:** The dataset is moderately imbalanced. The DERMASON species is the most frequent, while BOMBAY is the least. This imbalance is not extreme, but it was handled during the train-test split by using `stratify=y` to ensure each class was represented proportionally.
 
