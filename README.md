@@ -35,7 +35,7 @@ The EDA was performed to understand the class distribution and to see how well t
 
 ### Key Feature Analysis  
 
-![_key_features_by_class](images\02_key_features_by_class.png)
+![_key_features_by_class](images/02_key_features_by_class.png)
 
 - **Analysis:** The box plots clearly show that the physical measurements are excellent predictors. Each species has a distinct shape profile. For example, the BOMBAY species is consistently the largest in terms of Perimeter and axis lengths, while the SEKER species is the most spherical, with the highest roundness and Compactness. This strong separation indicated that a classification model would likely perform very well.
 
@@ -73,7 +73,7 @@ The model achieved excellent performance on the unseen test data.
 
 - **Confusion Matrix:**  
 
-![onfusion_matrix](images\03_confusion_matrix.png)
+![onfusion_matrix](images/03_confusion_matrix.png)
 
   Analysis shows a strong diagonal line indicating most predictions were correct. The model perfectly classified all BOMBAY beans. The main confusion was between the SIRA and DERMASON species, possibly due to similar physical characteristics.
 
