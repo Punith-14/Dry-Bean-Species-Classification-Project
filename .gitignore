@@ -1,0 +1,14 @@
+# .gitignore file
+.env
+__pycache__/
+*.pyc
+
+.vscode/
+
+# Python virtual environment
+.venv/
+# System files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
